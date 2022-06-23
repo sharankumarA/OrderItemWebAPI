@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "g3NrzYku0efXFBTkgtb7r6HuRS+s/4mtw3Tl/9Ycv7vShDZAcADvxY3JXN6HPDRpq0hQXNSbhJShr9FuESyABQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenov\\OneDrive\\Desktop\\CloudPracticeCheck\\CloudPracticeCheck\\OrderItem\\OrderItem\\OrderItem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenov\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "C:\\Users\\lenov\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
